@@ -469,7 +469,9 @@ Implemented authentication and authorization using JWT-based role access control
 <sub>
 
 TALHA JAVED  
-MERN STACK DEVELOPER · FULL-STACK WEB DEVELOPER
+MERN STACK DEVELOPER 
+<br/>
+FULL-STACK WEB DEVELOPER
 
 <br />
 

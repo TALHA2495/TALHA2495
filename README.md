@@ -1,67 +1,156 @@
-# Hi there, I'm Talha Javed 👋
+<!--
+Talha Javed — GitHub Profile README
+Modern editorial variation
+Original information preserved; presentation substantially redesigned.
+-->
 
-### MERN Stack Developer | Full-Stack Web Developer
+<div align="center">
 
-<p align="left">
-  <a href="https://portfolio-next-js-ten-omega.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/talha-javed-005b24328"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tjaveed507@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+# TALHA JAVED
+
+### MERN Stack Developer · Full-Stack Web Developer
+
+**I build modern, scalable web applications with a focus on clean architecture, responsive interfaces, and purposeful motion.**
+
+<br />
+
+<a href="https://portfolio-next-js-ten-omega.vercel.app">
+  <img src="https://img.shields.io/badge/PORTFOLIO-0F0F0F?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/talha-javed-005b24328">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:tjaveed507@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## `01` — PROFILE
+
+I'm a **MERN Stack & Full-Stack Developer** and Computer Science undergraduate focused on building scalable, performant web applications.
+
+<table>
+<tr>
+<td width="50%">
+
+### Experience
+
+**Full Stack Developer Intern**  
+**DeveloperHub Corporation**
+
+- Built **10+ REST API endpoints**
+- Implemented **JWT-based role access control**
+
+</td>
+
+<td width="50%">
+
+### Education
+
+**BS Computer Science**  
+Government College University Faisalabad
+
+**CGPA:** 3.8+
+
+</td>
+</tr>
+</table>
+
+### Current Focus
+
+`GSAP & Web Animation` · `Scalable REST APIs` · `Clean UI Architecture` · `Performance Optimization`
+
+> **Currently seeking:** MERN Stack Internship / Junior Software Engineer opportunities.
+
+---
+
+## `02` — TECHNOLOGY
+
+### Languages · Frontend
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
+</p>
+
+### Backend · Databases
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-111111?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+### Tools · Workflow
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 About Me
+## `03` — SELECTED WORK
 
-I'm a **MERN Stack & Full-Stack Developer** and Computer Science undergraduate with hands-on experience building scalable, performant web applications.
+### E-Commerce Web App
 
-- 💼 **Recent Experience:** Full Stack Developer Intern at **DeveloperHub Corporation** — built 10+ REST API endpoints and implemented JWT-based role access control.
-- 🎓 **Education:** BS Computer Science, Government College University Faisalabad (CGPA: 3.8+).
-- 🎯 **Focus Areas:** Web Animation (GSAP), Scalable REST APIs, Clean UI Architecture, Performance Optimization.
-- 🔭 **Currently seeking:** MERN Stack Internship / Junior Software Engineer roles.
+**React · Node.js · Express · MongoDB**
 
----
+Custom RESTful APIs, product management, user authentication, and persistent cart functionality.
 
-### 🛠️ Tech Stack & Tools
-
-**Languages & Frontend**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-**Tools & Workflow**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+**[View Repository →](https://github.com/TALHA2495/final-project)**
 
 ---
 
-### 🌟 Featured Projects
+### Cocktails — GSAP Showcase
 
-| Project | Stack | Key Features |
-| :--- | :--- | :--- |
-| **[E-Commerce Web App](https://github.com/TALHA2495/final-project)** | `React` `Node.js` `Express` `MongoDB` | Custom RESTful APIs, product management, user auth, and persistent cart. |
-| **[Cocktails — GSAP Showcase](https://github.com/TALHA2495/gsap-cocktailes)** | `React` `GSAP` `Tailwind` | Scroll-triggered animations, fluid UI transitions, fully responsive layout. |
-| **[Portfolio Site](https://github.com/TALHA2495/Portfolio-NextJS)** | `Next.js` `TypeScript` | Personal developer showcase built for high performance and clean UX. [Live →](https://portfolio-next-js-ten-omega.vercel.app) |
+**React · GSAP · Tailwind**
+
+A motion-focused interface featuring scroll-triggered animation, fluid UI transitions, and responsive layouts.
+
+**[View Repository →](https://github.com/TALHA2495/gsap-cocktailes)**
 
 ---
 
+### Portfolio Site
 
+**Next.js · TypeScript**
 
-### 📫 Connect with Me
+Personal developer portfolio focused on performance, responsive design, and clean user experience.
 
-- 🌐 **Portfolio:** [portfolio-next-js-ten-omega.vercel.app](https://portfolio-next-js-ten-omega.vercel.app)
-- 💼 **LinkedIn:** [linkedin.com/in/talha-javed-005b24328](https://linkedin.com/in/talha-javed-005b24328)
-- 📧 **Email:** [tjaveed507@gmail.com](mailto:tjaveed507@gmail.com)
+**[View Repository →](https://github.com/TALHA2495/Portfolio-NextJS)**  
+**[Live Site →](https://portfolio-next-js-ten-omega.vercel.app)**
+
+---
+
+## `04` — CONNECT
+
+<div align="center">
+
+### LET'S CONNECT
+
+I'm currently looking for opportunities where I can contribute to real-world products, strengthen my engineering skills, and grow as a full-stack developer.
+
+<br />
+
+**[Portfolio](https://portfolio-next-js-ten-omega.vercel.app)**  
+**[LinkedIn](https://linkedin.com/in/talha-javed-005b24328)**  
+**[Email](mailto:tjaveed507@gmail.com)**
+
+<br />
+
+<sub>© 2026 Talha Javed</sub>
+
+</div>
